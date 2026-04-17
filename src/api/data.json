@@ -1,5 +1,190 @@
-{
-    "results": [
-        
-    ]
+"results": [
+    {
+      "type": "location",
+      "name": "Japan",
+      "population": "125.7 million",
+      "capital": "Tokyo",
+      "national_animal": "Japanese Macaque",
+      "languages": ["Japanese"],
+      "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Kimi_ga_Yo_instrumental.ogg",
+      "images": {
+        "flag": "https://flagcdn.com/w320/jp.png",
+        "gallery": [
+          "https://images.unsplash.com/photo-1549692520-acc6669e2f0c",
+          "https://images.unsplash.com/photo-1505069446780-4ef442b5207f",
+          "https://images.unsplash.com/photo-1526481280691-78186e8c8f77"
+        ],
+        "city": "Tokyo",
+        "people": "Japanese",
+        "leader": "Fumio Kishida"
+      }
+    },
+    {
+      "type": "location",
+      "name": "Brazil",
+      "population": "203 million",
+      "capital": "Brasília",
+      "national_animal": "Jaguar",
+      "languages": ["Portuguese"],
+      "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Brazilian_National_Anthem.ogg",
+      "images": {
+        "flag": "https://flagcdn.com/w320/br.png",
+        "gallery": [
+          "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+          "https://images.unsplash.com/photo-1518639192441-8fce0a366e2e",
+          "https://images.unsplash.com/photo-1509833071855-0c5b7d67f6d3"
+        ],
+        "city": "Rio de Janeiro",
+        "people": "Brazilian",
+        "leader": "Luiz Inácio Lula da Silva"
+      }
+    },
+    {
+      "type": "location",
+      "name": "France",
+      "population": "67 million",
+      "capital": "Paris",
+      "national_animal": "Gallic Rooster",
+      "languages": ["French"],
+      "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/62/La_Marseillaise.ogg",
+      "images": {
+        "flag": "https://flagcdn.com/w320/fr.png",
+        "gallery": [
+          "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+          "https://images.unsplash.com/photo-1522098543979-ffc7f79d0d5f",
+          "https://images.unsplash.com/photo-1499856871958-5b9627545d1a"
+        ],
+        "city": "Paris",
+        "people": "French",
+        "leader": "Emmanuel Macron"
+      }
+    },
+    {
+      "type": "location",
+      "name": "Kenya",
+      "population": "55 million",
+      "capital": "Nairobi",
+      "national_animal": "Lion",
+      "languages": ["Swahili", "English"],
+      "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Kenya_national_anthem.ogg",
+      "images": {
+        "flag": "https://flagcdn.com/w320/ke.png",
+        "gallery": [
+          "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5",
+          "https://images.unsplash.com/photo-1523805009345-7448845a9e53",
+          "https://images.unsplash.com/photo-1516426122078-c23e76319801"
+        ],
+        "city": "Nairobi",
+        "people": "Kenyan",
+        "leader": "William Ruto"
+      }
+    },
+    {
+      "type": "location",
+      "name": "Canada",
+      "population": "39 million",
+      "capital": "Ottawa",
+      "national_animal": "Beaver",
+      "languages": ["English", "French"],
+      "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/O_Canada.ogg",
+      "images": {
+        "flag": "https://flagcdn.com/w320/ca.png",
+        "gallery": [
+          "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+          "https://images.unsplash.com/photo-1505761671935-60b3a7427bad",
+          "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05"
+        ],
+        "city": "Toronto",
+        "people": "Canadian",
+        "leader": "Justin Trudeau"
+      }
+    },
+
+
+    {
+      "type": "person",
+      "name": "Albert Einstein",
+      "birth_date": "March 14, 1879",
+      "birth_place": "Germany",
+      "background": ["Jewish"],
+      "parents": ["Hermann Einstein", "Pauline Koch"],
+      "education": ["ETH Zurich"],
+      "images": {
+        "main": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg",
+        "gallery": [
+          "https://upload.wikimedia.org/wikipedia/commons/8/86/Einstein_1921.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/3/3c/Einstein_1947.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/f/fb/Einstein_patentoffice.jpg"
+        ]
+      }
+    },
+    {
+      "type": "person",
+      "name": "Marie Curie",
+      "birth_date": "Nov 7, 1867",
+      "birth_place": "Poland",
+      "background": ["Polish"],
+      "parents": ["Władysław Skłodowski", "Bronisława"],
+      "education": ["University of Paris"],
+      "images": {
+        "main": "https://upload.wikimedia.org/wikipedia/commons/6/69/Marie_Curie_c1920.jpg",
+        "gallery": [
+          "https://upload.wikimedia.org/wikipedia/commons/a/a8/Marie_Curie_1903.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/7/7e/Curie_lab.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/9/93/Marie_Curie_Nobel.jpg"
+        ]
+      }
+    },
+    {
+      "type": "person",
+      "name": "Nelson Mandela",
+      "birth_date": "July 18, 1918",
+      "birth_place": "South Africa",
+      "background": ["Xhosa"],
+      "parents": ["Gadla Mandela", "Nosekeni"],
+      "education": ["University of Fort Hare"],
+      "images": {
+        "main": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Nelson_Mandela_1994.jpg",
+        "gallery": [
+          "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mandela_portrait.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/4/45/Mandela_1990.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/b/b5/Mandela_smiling.jpg"
+        ]
+      }
+    },
+    {
+      "type": "person",
+      "name": "Frida Kahlo",
+      "birth_date": "July 6, 1907",
+      "birth_place": "Mexico",
+      "background": ["Mexican"],
+      "parents": ["Guillermo Kahlo", "Matilde Calderón"],
+      "education": ["National Preparatory School"],
+      "images": {
+        "main": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Frida_Kahlo.jpg",
+        "gallery": [
+          "https://upload.wikimedia.org/wikipedia/commons/9/9e/Frida_self.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kahlo_1932.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/2/2f/Frida_1937.jpg"
+        ]
+      }
+    },
+    {
+      "type": "person",
+      "name": "Steve Jobs",
+      "birth_date": "Feb 24, 1955",
+      "birth_place": "USA",
+      "background": ["American"],
+      "parents": ["Abdulfattah Jandali", "Joanne Schieble"],
+      "education": ["Reed College"],
+      "images": {
+        "main": "https://upload.wikimedia.org/wikipedia/commons/8/85/Steve_Jobs_Headshot_2010-CROP.jpg",
+        "gallery": [
+          "https://upload.wikimedia.org/wikipedia/commons/d/d9/Steve_Jobs_1984.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/f/fa/Steve_Jobs_2005.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/a/a0/Steve_Jobs_2010.jpg"
+        ]
+      }
+    }
+  ]
 }
